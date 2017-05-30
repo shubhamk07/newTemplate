@@ -105,3 +105,35 @@ h1, {
 	background:white;
 	color:black;
 }
+.faq{
+	height:400px;
+	width:100%;
+	background:grey;
+	color:black;
+	
+}
+.container2_1{
+	width:35%;
+	height:400px;
+	float:left;
+	padding-left:90px;
+	padding-top:100px;
+	color:black;
+	
+}
+.container2_2{
+	width:63%;
+	height:400px;
+	color:black;
+	float:right;
+	padding-top:65px;
+	padding-left:20px;
+}
+.textarea1{
+	width:90%;
+	height:40px;
+	margin-top:08px;
+	cursor:pointer;
+	padding-left:10px;
+	font-size:20px;
+}
